@@ -1,0 +1,216 @@
+[
+  {
+    "name": "YossarianHalf",
+    "price": 55,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 36,
+    "depth": 16,
+    "maxShelves": 3,
+    "maxDrawers": 0,
+    "isWallFixtureNeeded": false,
+    "availableColors": "BROWN, BLACK, BONE",
+    "availableMountTypes": "FLOOR, WALL"
+  },
+  {
+    "name": "YossarianQuarter",
+    "price": 38,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 18,
+    "depth": 16,
+    "maxShelves": 1,
+    "maxDrawers": 0,
+    "isWallFixtureNeeded": false,
+    "availableColors": "BROWN, BLACK, BONE",
+    "availableMountTypes": "FLOOR, WALL"
+  },
+  {
+    "name": "YossarianWardrobe",
+    "price": 80,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 72,
+    "depth": 16,
+    "maxShelves": 7,
+    "maxDrawers": 0,
+    "isFloorMounted": true,
+    "isFeetRequired": 0,
+    "isWallFixtureNeeded": true,
+    "availableColors": "BROWN, BLACK, BONE, OXBLOOD",
+    "availableMountTypes": "FLOOR"
+  },
+  {
+    "name": "LuthienHalf",
+    "price": 40,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 36,
+    "depth": 18,
+    "isWallFixtureNeeded": false,
+    "availableColors": "BLACK, BONE",
+    "availableMountTypes": "FLOOR, WALL"
+  },
+  {
+    "name": "LuthienQuarter",
+    "price": 25,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 18,
+    "depth": 18,
+    "isWallFixtureNeeded": false,
+    "availableColors": "BLACK, BONE",
+    "availableMountTypes": "FLOOR, WALL"
+  },
+  {
+    "name": "AtreidesHalf",
+    "price": 50,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 36,
+    "depth": 16,
+    "maxShelves": 3,
+    "maxDrawers": 0,
+    "isWallFixtureNeeded": false,
+    "availableColors": "BROWN, BONE",
+    "availableMountTypes": "FLOOR, WALL"
+  },
+  {
+    "name": "AtreidesQuarter",
+    "price": 30,
+    "furnitureType": "CABINET",
+    "width": 36,
+    "height": 18,
+    "depth": 16,
+    "maxShelves": 1,
+    "maxDrawers": 0,
+    "isWallFixtureNeeded": false,
+    "availableColors": "BROWN, BONE",
+    "availableMountTypes": "FLOOR, WALL"
+  },
+  {
+    "name": "SlothropHalf",
+    "price": 12,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 36,
+    "isHandleNeeded": false,
+    "coverType": "DOOR",
+    "availableColors": "BROWN, BLACK"
+  },
+  {
+    "name": "SlothropWardrobe",
+    "price": 23,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 72,
+    "isHandleNeeded": false,
+    "coverType": "DOOR",
+    "availableColors": "BROWN, BLACK"
+  },
+  {
+    "name": "BelacquaHalf",
+    "price": 16,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 36,
+    "isHandleNeeded": false,
+    "coverType": "DOOR",
+    "availableColors": "BONE, OXBLOOD"
+  },
+  {
+    "name": "BelacquaQuarter",
+    "price": 10,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 18,
+    "isHandleNeeded": false,
+    "coverType": "DOOR",
+    "availableColors": "BONE, OXBLOOD"
+  },
+  {
+    "name": "BelacquaWardrobe",
+    "price": 26,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 72,
+    "isHandleNeeded": false,
+    "coverType": "DOOR",
+    "availableColors": "BONE, OXBLOOD"
+  },
+  {
+    "name": "GagaHalf",
+    "price": 11,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 36,
+    "isHandleNeeded": true,
+    "coverType": "DOOR",
+    "availableColors": "BONE, OXBLOOD, BLACK, BROWN"
+  },
+  {
+    "name": "GagaQuarterDoor",
+    "price": 7,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 18,
+    "isHandleNeeded": true,
+    "coverType": "DOOR",
+    "availableColors": "BONE, OXBLOOD, BLACK, BROWN"
+  },
+  {
+    "name": "GagaQuarterDrawerFront",
+    "price": 6,
+    "furnitureType": "COVER",
+    "width": 36,
+    "height": 18,
+    "isHandleNeeded": true,
+    "coverType": "DRAWER_FRONT",
+    "availableColors": "BONE, OXBLOOD, BLACK, BROWN"
+  },
+  {
+    "name": "CornerFoot",
+    "price": 4,
+    "furnitureType": "OTHER"
+  },
+  {
+    "name": "DoorHinges",
+    "price": 2.5,
+    "furnitureType": "OTHER"
+  },
+  {
+    "name": "Drawer",
+    "price": 15,
+    "furnitureType": "OTHER",
+    "depth": 18
+  },
+  {
+    "name": "HandleDoor",
+    "price": 4,
+    "furnitureType": "OTHER",
+    "handleType": "DOOR_HANDLE"
+  },
+  {
+    "name": "HandleDrawer",
+    "price": 3,
+    "furnitureType": "OTHER",
+    "handleType": "DRAWER_HANDLE"
+  },
+  {
+    "name": "RailAtreides",
+    "price": 10,
+    "furnitureType": "OTHER",
+    "railType": "ATREIDES"
+  },
+  {
+    "name": "RailStandard",
+    "price": 7,
+    "furnitureType": "OTHER",
+    "railType": "STANDARD"
+  },
+  {
+    "name": "WallFixture",
+    "price": 6,
+    "furnitureType": "OTHER"
+  }
+]
